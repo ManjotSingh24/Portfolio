@@ -1,0 +1,151 @@
+span{
+    text-decoration: underline;
+    color: #66BFBF;
+}
+
+body{
+    text-align:center;
+    margin-top: 100px;
+    margin-bottom:0px;
+
+}
+.skill-row{
+    align-content: auto;
+    margin-left: 350px;
+}
+.D{
+    margin-bottom: 5px;
+}
+h1{
+
+    font-size: 4.5em;
+    color: #66BFBF;
+    margin:30px;
+    line-height: 3.5rem;
+    font-family: 'Sacramento', cursive;
+
+}
+.s{
+    font-family: cursive;
+    font-size: 2rem;
+    font-weight: normal;
+}
+h2{
+font-size: 2.5rem;
+color: #66BFBF;
+margin: auto;
+font-family: 'Montserrat', sans-serif;
+}
+a{
+    color:#11999E;
+}
+.topp{
+background-color: white;
+}
+.topcloud
+{
+    height:50px;
+    width:150px;
+    position:absolute;
+    right:350px;
+    top:10px;
+}
+.bottomcloud
+{
+    height: 50px;
+    width: 150px;
+    position: absolute;
+        left: 350px;
+        top:220px;
+}
+.jpg{
+    
+    /*border-top-right-radius:10%;
+    border-bottom-left-radius: 10%;*/
+    height:200px;
+    
+}
+.mountain
+{
+height:600px;
+width :70%;
+
+}
+p{
+    text-align:auto;
+    line-height: 1.5;
+    
+}
+.jpgg
+{
+    height: 200px;
+    line-height: 100px;
+    margin:1rem auto;
+    align-items:center;
+    
+}
+.skill-row{
+    width:50%;
+    line-height:2;
+    text-align: left;
+    margin:100px auto 100px auto;
+}
+#pp{
+    float: right;
+    margin-top:100px;
+    margin-right:150px;
+    width:40%;
+    padding: 10px;
+}
+*{
+    margin:30px auto;
+    color:rgb(107, 104, 104);
+}
+hr{
+    border-style:dotted ;
+    border-bottom: none;
+    width: 5%;
+    border-width: 5px;
+    color:darkslategrey;
+    margin:100px auto;
+}
+.bottom-container{
+    background-color:#00D7FF;
+    height:7.5rem;
+    margin-bottom: 0;
+    padding-top: 10px;
+}
+a{
+    color: aliceblue;
+    padding: 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: blueviolet;
+
+    
+}
+p{
+    margin-bottom:0;
+}
+.buttonClass {
+    font-size: 15px;
+    font-family: Arial;
+    width: 140px;
+    height: 46px;
+    border-width: 1px;
+    color: #fff;
+    border-color: #599bb3;
+    font-weight: bold;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    box-shadow: 0px 10px 14px -7px #276873;
+    text-shadow: 0px 0px 0px #3d768a;
+    background: linear-gradient(#599bb3, #408c99);
+}
+
+.buttonClass:hover {
+    background: linear-gradient(#408c99, #599bb3);
+}
